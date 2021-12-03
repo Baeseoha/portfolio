@@ -9,7 +9,7 @@
 ## 📌 Projects
 ### 1. [IC_Mall](https://github.com/RowenKim/ICTeam.git) - github 주소
 > 신선 식품 판매 쇼핑몰
-* [AWS 서버 링크](http://15.164.244.62:8080/icmall/all/vegetable)
+* [http://icmall - AWS 서버 링크](http://15.164.244.62:8080/icmall/all/vegetable)
 * [기능 작동 영상, 간략한 설명 PPT](https://docs.google.com/presentation/d/1J9ulvn62EGtyRAE-XLZkV6Y2RU2fnBg8aDb-4TOJSLs/edit?usp=sharing)
 * 기간: 2021.09.18 ~ 10.14
 * 참여 인원: 4명
