@@ -4,7 +4,6 @@
 능동적이고 적극적인 커뮤니케이션으로 임하여 <br>
 더 좋은 개발자로서 성장하기 위해 학습하고 경험하고 노력하겠습니다.<br>
 
-
 ## 📌 Intro
 <br>
 안녕하세요. <br>
@@ -15,7 +14,6 @@
 * Channel<br>
 · Github: https://github.com/Baeseoha <br>
 · Blog: https://blog.naver.com/bha6050
- 
 
 ## 📌 Projects
 ### 1. [IC_Mall](https://github.com/RowenKim/ICTeam.git) - github 주소
