@@ -7,6 +7,6 @@
 신입개발자 배서하입니다.
 
 ## 📌 Projects
-### 1. [IC_Mall][https://github.com/RowenKim/ICTeam.git]
+### 1. [IC_Mall](https://github.com/RowenKim/ICTeam.git)
 > 쇼핑몰
 
