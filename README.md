@@ -58,8 +58,6 @@
 * 개발 기간: 2021.02 ~ 현재
 * 참여 인원: 1명
 * 사용 기술: HTML / CSS / JQEURY / JAVASCRIPT / KakaoAPI / HTTPS
----
-프로젝트 상세 설명<br>
 * 주요 개발 내용: <br>
 · KakaoAPI를 활용한 지도 구현 <br>
 · 채널톡 API를 활용한 메신저 기능 구현<br>
