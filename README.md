@@ -53,7 +53,7 @@
   * 상세페이지 페이징 작업 미완성
 ---
 
-### 2. [코딩 앤 로봇메이트](https://robotmate.co.kr) - https://robotmate.co.kr
+### 2. [코딩 앤 로봇메이트] - https://robotmate.co.kr
 > 로봇 & 코딩 학원 사이트 (개인 프로젝트)
 * 개발 기간: 2021.02 ~ 현재
 * 참여 인원: 1명
@@ -75,7 +75,7 @@
 · 백엔드를 배우기 전에 작업했었던 사이트로 JAVA로 구축하고자 합니다.<br>
 · 갤러리 페이지에 페이징 기능을 구현할 계획입니다.<br>
 
-### 3. [네네치킨](http://english.nenechicken.com/Store_new.asp) - http://english.nenechicken.com/Store_new.asp
+### 3. [네네치킨] - http://english.nenechicken.com/Store_new.asp
 > 네네치킨 영문 사이트 화면 구현
 * 개발 기간: 2021.02
 * 참여 인원: 1명
