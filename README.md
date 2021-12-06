@@ -1,5 +1,5 @@
 # 배서하 포트폴리오
-
+> [기능 작동 영상, 이미지위주의 설명 PPT](https://docs.google.com/presentation/d/1J9ulvn62EGtyRAE-XLZkV6Y2RU2fnBg8aDb-4TOJSLs/edit?usp=sharing)
 ## 📌 Intro
 > 이름: 배서하 <br>
 > 취미: 유도, 풋살, 카페에서 코딩하기(프로그래머스, 정올), 여행, 봉사활동
@@ -16,13 +16,12 @@
 ### 1. [IC_Mall](https://github.com/RowenKim/ICTeam.git) - github 주소
 > 신선 식품 판매 쇼핑몰 (팀 프로젝트)
 * [http://icmall - AWS 서버 링크](http://15.164.244.62:8080/icmall/all/vegetable)
-* [기능 작동 영상, 간략한 설명 PPT](https://docs.google.com/presentation/d/1J9ulvn62EGtyRAE-XLZkV6Y2RU2fnBg8aDb-4TOJSLs/edit?usp=sharing)
 * 개발 기간: 2021.09.18 ~ 10.14
 * 참여 인원: 4명
 * 역할: Front-end 총괄, 메인페이지, 장바구니, 결제 부분 기능 구현, AWS 서버 구축
 * 사용 기술: JAVA11 / JSON / springboot / MySQL / Javascript / jsoup / MyBatis / JSTL / KakaoAPI
----
-프로젝트 상세 설명<br>
+
+> 프로젝트 상세 설명<br>
 * 주요 개발 내용: <br>
 · jsoup을 이용하여 11번가 야채 상품 크롤링 <br>
 · 메인페이지, 카테고리 페이지 등 Mysql DB 화면 구현<br>
@@ -65,14 +64,14 @@
 
 > 회고
 * 좋았던 점<br>
-· 실제로 홈페이지에서 채널톡 메신저로 학원에 문의한 사례들이 있어 기능이 실제로 쓰임 받고 있음에 뿌듯했습니다.
+· 실제로 홈페이지에서 채널톡 메신저로 학원에 문의한 사례들이 있어 기능이 실제로 쓰임 받고 있음에 뿌듯했습니다.<br>
 · 지인의 학원 홈페이지로 해보고 싶은 기능들을 구현할 수 있었습니다.<br>
 · GA 추적 코드를 심어 홈페이지에 한 달에 백여명의 방문자 유입 수를 확인할 수 있었습니다.<br>
 
 * 아쉬운 점, 개선방향<br>
 · 백엔드를 배우기 전에 작업했었던 사이트로 JAVA로 구축하고자 합니다.<br>
 · 갤러리 페이지에 페이징 기능을 구현할 계획입니다.<br>
-
+---
 ### 3. [네네치킨] - http://english.nenechicken.com/Store_new.asp
 > 네네치킨 영문 사이트 화면 구현
 * 개발 기간: 2021.02
