@@ -1,5 +1,5 @@
 # 배서하 포트폴리오
-> [기능 작동 영상, 이미지위주의 설명 PPT](https://docs.google.com/presentation/d/1J9ulvn62EGtyRAE-XLZkV6Y2RU2fnBg8aDb-4TOJSLs/edit?usp=sharing)
+> [기능 작동 영상, 이미지위주의 설명 포트폴리오](https://docs.google.com/presentation/d/1J9ulvn62EGtyRAE-XLZkV6Y2RU2fnBg8aDb-4TOJSLs/edit?usp=sharing)
 ## 📌 Intro
 > 이름: 배서하 <br>
 > 취미: 유도, 풋살, 카페에서 코딩하기(프로그래머스, 정올), 여행, 봉사활동
