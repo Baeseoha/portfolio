@@ -18,7 +18,7 @@
 * [http://icmall - AWS 서버 링크](http://15.164.244.62:8080/icmall/all/vegetable)
 * 개발 기간: 2021.09.18 ~ 10.14
 * 참여 인원: 4명
-* 역할: Front-end 총괄, 메인페이지, 장바구니, 결제 부분 기능 구현, AWS 서버 구축
+* 역할: Front-end 총괄, 메인페이지, 장바구니, 결제 부분 기능 구현, , 주문내역 조회, AWS 서버 구축
 * 사용 기술: JAVA11 / JSON / springboot / MySQL / Javascript / jsoup / MyBatis / JSTL / KakaoAPI
 
 > 프로젝트 상세 설명 - 배서하 파트 부분<br>
